@@ -24,3 +24,9 @@ https://rclone.org/downloads/
 
 rclone needs winfsp to mount drives:
 https://winfsp.dev/rel/
+
+
+
+how to develop it?
+ask chat gpt to help you write parts of code
+
